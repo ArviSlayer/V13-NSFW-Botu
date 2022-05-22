@@ -1,0 +1,11 @@
+{
+  "prefix": "p.",
+  "owners": ["384345860097441794"],
+
+
+  "msg": {
+    "nsfwWarn": "<a:adikkat:974006925249376338>  Bu Kanal **NSFW** Olarak Ayarlı Değil <a:adikkat:974006925249376338> \n\n <a:adown:972595955247509544> Lütfen **Kanalı Ayarlayıp** Tekrar Dene \n https://media.discordapp.net/attachments/976914488181784626/976922711542599720/NSFW_Kanal_Ayarlama.png?width=1364&height=556",
+    "loading": "<a:ayukleniyor:976807798123933747> Fotoğraf Yükleniyor...",
+    "imageNotLoading": "Yüklenmediyse Buraya Tıkla"
+  }
+}
